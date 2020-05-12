@@ -14,7 +14,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  /**
  * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
- *
+ * "NEW COMMIT ON GITHUB FOR TESTING"
  * GameController.java
  * Controller to navigate the buttons on the game pages
  */
